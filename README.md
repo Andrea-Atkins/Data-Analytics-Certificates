@@ -1,2 +1,8 @@
 # Data-Analytics-Certificates
 A collection of my professional certificates in Data Analytics and related fields
+This repository contains professional certifications that support my development in data analytics, business intelligence, data visualization, and data-driven decision making.
+
+Certifications Obtained:
+
+- Cisco Data Analytics Essentials
+  Skills learned: Excel, data cleaning, SQL, Python, Tableau, Data Visualization, statistical analysis
